@@ -1,0 +1,24 @@
+_repo: Norwegian-Life--13-An-Account-of-Past-and-Contemporary-Conditions-and-Progress-in-Norway-and-__10543
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Clough, Ethlyn T.
+    gutenberg_agent_id: '3577'
+    url: http://www.gutenberg.org/2009/agents/3577
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Sweden -- Social life and customs'
+- !lcsh 'Norway -- Social life and customs'
+- GITenberg
+title: "Norwegian Life\r\nAn Account of Past and Contemporary Conditions and Progress\
+  \ in Norway and Sweden"
+url: http://www.gutenberg.org/ebooks/10543
