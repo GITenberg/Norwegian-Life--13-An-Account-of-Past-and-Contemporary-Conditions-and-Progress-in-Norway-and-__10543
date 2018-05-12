@@ -1,11 +1,16 @@
 _repo: Norwegian-Life--13-An-Account-of-Past-and-Contemporary-Conditions-and-Progress-in-Norway-and-__10543
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Clough, Ethlyn T.
     gutenberg_agent_id: '3577'
     url: http://www.gutenberg.org/2009/agents/3577
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10543#Norwegian-Life--13-An-Account-of-Past-and-Contemporary-Conditions-and-Progress-in-Norway-and-_
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
